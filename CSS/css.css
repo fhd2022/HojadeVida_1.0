@@ -1,0 +1,36 @@
+footer {
+    background-color: black;
+    position: absolute;
+    bottom: auto;
+    text-align: auto;
+    width: 1340px;
+    height: 30px;
+    color: dimgrey
+}
+
+.Centrar {
+
+    display: flex;
+    justify-content: center;
+}
+
+.h2 {
+    bottom: auto;
+    text-align: center;
+}
+
+.accordion-item {
+    bottom: auto;
+    text-align: center;
+
+}
+
+.footer2 {
+    background-color: black;
+    position: absolute;
+    bottom: auto;
+    text-align: auto;
+    width: 1340px;
+    height: 30px;
+    color: dimgrey
+}
